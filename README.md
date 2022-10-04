@@ -6,4 +6,6 @@ In challenge three we were tasked with rewriting code to make the website genera
 ## Screenshot
 ![](assets/Screenshot%202022-10-03%20190044.png)
 
-## Github Pages URL:
+## GitHub Pages URL and GitHub repository Link(respectively):
+https://nate-kleinsorge.github.io/challenge_03/
+https://github.com/Nate-Kleinsorge/challenge_03
